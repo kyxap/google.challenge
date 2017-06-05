@@ -19,11 +19,11 @@ And BTW I'm QA Automation Engineer and not a strictly developer so my solution m
 ### Level 1, Task 1
 _I really don't remember and I can't find my Answer code, but it was really easy ;)_
 ### Level 2, Task 1
-todo
+[Task]() | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_1/Answer.java)
 ### Level 2, Task 2
-todo
+[Task]() | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2/Answer.java)
 ### Level 2, Task 2
-todo
+[Task]() | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2_1/Answer.java)
 
 # Google foo.bar bug (challenge resets after submit)
 _I'm on Level 2, part 2: (Level 2, 50%)_
