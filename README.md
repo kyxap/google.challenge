@@ -1,4 +1,4 @@
- ![](https://github.com/kyxap/google.challenge/blob/master/2017-06-04_2026.png)
+ ![](https://github.com/kyxap/google.challenge/blob/master/foo.bar.scr1.png)
  
  # foobar.withgoogle.com
 
