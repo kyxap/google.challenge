@@ -1,6 +1,6 @@
- ![](https://github.com/kyxap/google.challenge/blob/master/foo.bar.scr1.png)
+![](https://github.com/kyxap/google.challenge/blob/master/src/img/foobarLogin.png)
  
- # foobar.withgoogle.com
+# foobar.withgoogle.com
 
 After googling some information about java and python features I got link to participate in google challenges. Before that day I din't know anything about foo.bar :) 
 
@@ -37,3 +37,7 @@ _google-chrome, macos, foobar version 53-17-g6bfce4dd-beta (2017-03-21-22:12+000
 
 Posted here:
 [stackoverflow.com](https://stackoverflow.com/questions/44252108/google-foobar-bug-chahallenge-resets-after-submit)
+
+
+So now I'm waiting for any reaction on my feedback or atleast new build on server
+![](https://github.com/kyxap/google.challenge/blob/master/src/img/foobarStatus.png)
