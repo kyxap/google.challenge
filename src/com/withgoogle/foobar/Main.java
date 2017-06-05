@@ -1,6 +1,6 @@
 package com.withgoogle.foobar;
 
-//import com.withgoogle.foobar.level2_1.Answer;
+//import com.withgoogle.foobar.gearing_up_for_destruction.txt.Answer;
 //import com.withgoogle.foobar.level2_2.Answer;
 import com.withgoogle.foobar.level2_2_1.Answer;
 

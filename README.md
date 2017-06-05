@@ -1,4 +1,4 @@
-![](https://github.com/kyxap/google.challenge/blob/master/src/img/foobarLogin.png)
+![](https://github.com/kyxap/google.challenge/blob/master/img/foobarLogin.png)
  
 # foobar.withgoogle.com
 
@@ -39,5 +39,6 @@ Posted here:
 [stackoverflow.com](https://stackoverflow.com/questions/44252108/google-foobar-bug-chahallenge-resets-after-submit)
 
 
-So now I'm waiting for any reaction on my feedback or atleast new build on server
-![](https://github.com/kyxap/google.challenge/blob/master/src/img/foobarStatus.png)
+So now I'm waiting for any reaction on my feedback or atleast new build on server:
+
+![](https://github.com/kyxap/google.challenge/blob/master/img/foobarStatus.png)

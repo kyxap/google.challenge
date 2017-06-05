@@ -1,5 +1,7 @@
 package com.withgoogle.foobar.level2_2_1;
 
+//power_hungry
+
 import java.math.BigInteger;
 import java.util.*;
 

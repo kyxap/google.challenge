@@ -1,5 +1,7 @@
 package com.withgoogle.foobar.level2_2;
 
+//gearing_up_for_destruction
+
 import java.util.ArrayList;
 import java.util.List;
 
