@@ -1,3 +1,5 @@
+ ![](https://github.com/kyxap/google.challenge/blob/master/2017-06-04_2026.png)
+ 
  # foobar.withgoogle.com
 
 After googling some information about java and python features I got link to participate in google challenges. Before that day I din't know anything about foo.bar :) 
