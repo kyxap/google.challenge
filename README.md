@@ -21,9 +21,9 @@ _I really don't remember and I can't find my Answer code, but it was really easy
 ### Level 2, Task 1
 [Task]() | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_1/Answer.java)
 ### Level 2, Task 2
-[Task](https://github.com/kyxap/google.challenge/blob/master/txt/power_hungry.txt) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2/Answer.java)
+[Task](https://github.com/kyxap/google.challenge/blob/master/challenges/power_hungry.md) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2/Answer.java)
 ### Level 2, Task 2
-[Task](https://github.com/kyxap/google.challenge/blob/master/txt/gearing_up_for_destruction.txt) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2_1/Answer.java)
+[Task](https://github.com/kyxap/google.challenge/blob/master/challenges/gearing_up_for_destruction.md) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2_1/Answer.java)
 
 # Google foo.bar bug (challenge resets after submit)
 _I'm on Level 2, part 2: (Level 2, 50%)_
