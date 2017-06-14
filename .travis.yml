@@ -2,12 +2,11 @@ language: java
 
 jdk:
   - oraclejdk8
-  - openjdk7
 
-addons:
-  apt:
-    packages:
-    - graphviz
+
+branches:
+  only:
+    - master
 
 #before_install:
 #  - cd java
