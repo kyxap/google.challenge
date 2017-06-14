@@ -23,7 +23,7 @@ public class AnswerTest {
 
     @Test
     public void minMin1() {
-        Assert.assertEquals(4, answer.minMinions(10));
+        Assert.assertEquals(3, answer.minMinions(10));
     }
 
     @Test
