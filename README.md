@@ -6,6 +6,9 @@ After googling some information about java and python features I got link to par
 
 And BTW I'm QA Automation Engineer and not a strictly developer so my solution may look not as good as it could be.
 
+Added jUnit test to help test your code and gradle.build file to simple configuration in your IDE.
+
+
 ### **Information which may help:**
 * Each level has N level tasks (e.g. Level 1 - 1 task, Level 2 - 2 tasks, etc.)  
 * You have 72 hours to submit your Answer or request a new one
@@ -19,13 +22,18 @@ And BTW I'm QA Automation Engineer and not a strictly developer so my solution m
 ### Level 1, Task 1
 _I really don't remember and I can't find my Answer code, but it was really easy ;)_
 ### Level 2, Task 1
-[Task]() | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_1/Answer.java)
+[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/level2_1_no_name)
 ### Level 2, Task 2
-[Task](https://github.com/kyxap/google.challenge/blob/master/challenges/power_hungry.md) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2/Answer.java)
+[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/gearing_up_for_destruction)
 ### Level 2, Task 2
-[Task](https://github.com/kyxap/google.challenge/blob/master/challenges/gearing_up_for_destruction.md) | [Answer](https://github.com/kyxap/google.challenge/blob/master/src/com/withgoogle/foobar/level2_2_1/Answer.java)
+[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/power_hungry) 
+### Level 2, Task 2
+[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/lovely_lucky_lambs) 
 
-# Google foo.bar bug (challenge resets after submit)
+
+#### Google foo.bar bug (challenge resets after submit)
+[After 3th tasks from Level 2 part 2 foobar let me submit solution]
+
 _I'm on Level 2, part 2: (Level 2, 50%)_
 
 _After I submitted challenge (java) I got nothing - the time stops and status doesn't update. Logout/Clear cash - doesn't work, all looks like I need request the new challenge but I did it twice! And it doesn't work at all!_
@@ -37,8 +45,3 @@ _google-chrome, macos, foobar version 53-17-g6bfce4dd-beta (2017-03-21-22:12+000
 
 Posted here:
 [stackoverflow.com](https://stackoverflow.com/questions/44252108/google-foobar-bug-chahallenge-resets-after-submit)
-
-
-So now I'm waiting for any reaction on my feedback or atleast new build on server:
-
-![](https://github.com/kyxap/google.challenge/blob/master/img/foobarStatus.png)
