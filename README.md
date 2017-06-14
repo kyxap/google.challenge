@@ -32,16 +32,7 @@ _I really don't remember and I can't find my Answer code, but it was really easy
 
 
 #### Google foo.bar bug (challenge resets after submit)
-[After 3th tasks from Level 2 part 2 foobar let me submit solution]
+[After I have done 3 tasks from Level 2 part 2 foobar let me submit solution...]
 
-_I'm on Level 2, part 2: (Level 2, 50%)_
-
-_After I submitted challenge (java) I got nothing - the time stops and status doesn't update. Logout/Clear cash - doesn't work, all looks like I need request the new challenge but I did it twice! And it doesn't work at all!_
-
-_I posted bug though Feedback command from foo.bar but who knows where it goes._
-_Who knows where I can find foo.bar bug tracker? To understand what is going on. Also I will appreciate any help and advice. Thanks!_
-
-_google-chrome, macos, foobar version 53-17-g6bfce4dd-beta (2017-03-21-22:12+0000)_
-
-Posted here:
+Bug posted here:
 [stackoverflow.com](https://stackoverflow.com/questions/44252108/google-foobar-bug-chahallenge-resets-after-submit)
