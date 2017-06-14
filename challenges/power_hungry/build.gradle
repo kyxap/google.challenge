@@ -10,16 +10,9 @@ dependencies {
     testCompile "junit:junit:4.12"
 }
 
-//test {
-//    testLogging {
-//        exceptionFormat = 'full'
-//        events = ["passed", "failed", "skipped"]
-//    }
-//}
-
 test {
-    useJUnit {
-        includeCategories 'com.google.challenges.AnswerTest'
-        //excludeCategories 'org.gradle.junit.CategoryB'
+    testLogging {
+        exceptionFormat = 'full'
+        events = ["passed", "failed", "skipped"]
     }
 }
