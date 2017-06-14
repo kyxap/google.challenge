@@ -6,7 +6,7 @@ After googling some information about java and python features I got link to par
 
 And BTW I'm QA Automation Engineer and not a strictly developer so my solution may look not as good as it could be.
 
-Added jUnit test to help test your code and gradle.build file to simple configuration in your IDE.
+Added jUnit tests to help verify your code and gradle.build file to simple configuration in your IDE.
 
 
 ### **Information which may help:**
