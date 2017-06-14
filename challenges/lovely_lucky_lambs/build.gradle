@@ -1,4 +1,4 @@
-apply from: 'buildtools/ColoredOutput.gradle'
+apply from: 'ColoredOutput.gradle'
 project.ext.set("TRAVIS_FOLDING", true)
 
 /*
