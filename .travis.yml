@@ -9,5 +9,5 @@ addons:
     packages:
     - graphviz
 
-before_install:
-  - cd java
+#before_install:
+#  - cd java
