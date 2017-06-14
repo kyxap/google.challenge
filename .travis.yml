@@ -8,5 +8,7 @@ branches:
   only:
     - master
 
-#before_install:
-#  - cd java
+before_install:
+  - gradle check
+  - ./gradlew check
+  - 
