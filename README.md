@@ -28,7 +28,7 @@ _I really don't remember and I can't find my Answer code, but it was really easy
 ### Level 2, Task 2
 [Project](https://github.com/kyxap/google.challenge/tree/master/challenges/power_hungry) 
 ### Level 2, Task 2
-[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/lovely_lucky_lambs) 
+[Lovely Lucky LAMBs](https://github.com/kyxap/google.challenge/tree/master/challenges/lovely_lucky_lambs)  [![Build Status](https://travis-ci.org/kyxap/google.challenge.svg?branch=master)](https://travis-ci.org/kyxap/google.challenge)
 
 
 #### Google foo.bar bug (challenge resets after submit)
