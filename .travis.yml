@@ -10,7 +10,7 @@ branches:
 
 before_install:
   - cd challenges/lovely_lucky_lambs/
-  - ./gradlew test
+  - gradle test
 #  - wget 'http://search.maven.org/remotecontent?filepath=junit/junit/4.12/junit-4.12.jar'
 #  - java -cp junit-4.12.jar org.junit.runner.JUnitCore [AnswerTest]
 #  - gradle check
