@@ -9,6 +9,7 @@ branches:
     - master
 
 before_install:
-  - gradle check
-  - ./gradlew check
-  - 
+  - cd challenges/lovely_lucky_lambs/
+  - wget 'http://search.maven.org/remotecontent?filepath=junit/junit/4.12/junit-4.12.jar'
+#  - gradle check
+#  - ./gradlew check
