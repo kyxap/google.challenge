@@ -29,6 +29,9 @@ _I really don't remember and I can't find my Answer code, but it was really easy
 [Project](https://github.com/kyxap/google.challenge/tree/master/challenges/power_hungry) 
 ### Level 2, Task 2
 [Lovely Lucky LAMBs](https://github.com/kyxap/google.challenge/tree/master/challenges/lovely_lucky_lambs)  [![Build Status](https://travis-ci.org/kyxap/google.challenge.svg?branch=master)](https://travis-ci.org/kyxap/google.challenge)
+### Level 1, Task 1
+[Lovely Lucky LAMBs](https://github.com/kyxap/google.challenge/tree/master/challenges/doomsday_fuel)
+
 
 
 #### Google foo.bar bug (challenge resets after submit)
