@@ -22,15 +22,15 @@ Added jUnit tests to help verify your code and gradle.build file to simple confi
 ### Level 1, Task 1
 _I really don't remember and I can't find my Answer code, but it was really easy ;)_
 ### Level 2, Task 1
-[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/level2_1_no_name)
+[No Name :)](https://github.com/kyxap/google.challenge/tree/master/challenges/level2_1_no_name)
 ### Level 2, Task 2
-[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/gearing_up_for_destruction)
+[Gearing Up For Destruction](https://github.com/kyxap/google.challenge/tree/master/challenges/gearing_up_for_destruction)
 ### Level 2, Task 2
-[Project](https://github.com/kyxap/google.challenge/tree/master/challenges/power_hungry) 
+[Power Hungry](https://github.com/kyxap/google.challenge/tree/master/challenges/power_hungry) 
 ### Level 2, Task 2
 [Lovely Lucky LAMBs](https://github.com/kyxap/google.challenge/tree/master/challenges/lovely_lucky_lambs)  [![Build Status](https://travis-ci.org/kyxap/google.challenge.svg?branch=master)](https://travis-ci.org/kyxap/google.challenge)
-### Level 1, Task 1
-[Lovely Lucky LAMBs](https://github.com/kyxap/google.challenge/tree/master/challenges/doomsday_fuel)
+### Level 3, Task 1
+[Doomsday Fuel](https://github.com/kyxap/google.challenge/tree/master/challenges/doomsday_fuel)
 
 
 
