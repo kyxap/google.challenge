@@ -46,7 +46,7 @@ Tracing the probabilities of each, we find that
     s4 has probability 1/7
     s5 has probability 9/14
     
-So, putting that together, and making a common denominator, gives an answer in the form of\
+So, putting that together, and making a common denominator, gives an answer in the form of
 
     [s2.numerator, s3.numerator, s4.numerator, s5.numerator, denominator] 
    which is
@@ -64,7 +64,13 @@ Test cases
 
 Inputs:
 
-    (int) m = [[0, 2, 1, 0, 0], [0, 0, 0, 3, 4], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0], [0, 0, 0, 0, 0]]
+    (int) m = [ 
+                [0, 2, 1, 0, 0], 
+                [0, 0, 0, 3, 4], 
+                [0, 0, 0, 0, 0], 
+                [0, 0, 0, 0, 0], 
+                [0, 0, 0, 0, 0]
+              ]
 
 Output:
 
@@ -72,7 +78,14 @@ Output:
 
 Inputs:
 
-    (int) m = [[0, 1, 0, 0, 0, 1], [4, 0, 0, 3, 2, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]]
+    (int) m = [ 
+                [0, 1, 0, 0, 0, 1],
+                [4, 0, 0, 3, 2, 0],
+                [0, 0, 0, 0, 0, 0], 
+                [0, 0, 0, 0, 0, 0], 
+                [0, 0, 0, 0, 0, 0], 
+                [0, 0, 0, 0, 0, 0]
+              ]
 
 Output:
 
