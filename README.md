@@ -35,7 +35,7 @@ _I really don't remember and I can't find my Answer code, but it was really easy
 
 
 #### Google foo.bar bug (challenge resets after submit)
-[After I have done 3 tasks from Level 2 part 2 foobar let me submit solution...]
+[After I have done 3 tasks from Level 2 part 2 foobar do not let me submit my solution...]
 
 Bug posted here:
 [stackoverflow.com](https://stackoverflow.com/questions/44252108/google-foobar-bug-chahallenge-resets-after-submit)
